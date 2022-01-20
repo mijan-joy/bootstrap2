@@ -1,0 +1,26 @@
+.top-header{
+    background-color: #FFFBF0;
+}
+.btn{
+    background-image: linear-gradient(#A4BC46, #85A019 
+    );
+    width: 150px;
+   
+}
+
+.products h3{
+    margin-top: 30px;
+    font-size: 48px;
+}
+.product-bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.price{
+    
+    padding: 3px 3px;
+    color: #FABE4C;
+    font-size: 30px;
+    font-weight: bolder;
+}
